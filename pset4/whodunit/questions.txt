@@ -1,0 +1,12 @@
+1.  It is a header file that specifies the size of a variable that helps in portability across platforms
+2.  These specify the memory required exactly for a variable, because some platforms may define a char to be 16-bit which is not what we want 
+3.  1,4,4,2
+4.  255,216 in decimal
+5.  bfSize represents size required by the bmp file , biSize represents size required by BITMAPINFOHEADER structure
+6.  biHeight negative implies that the bitmap related data starts from top-left nd not from bottom-left 
+7.  biBitCount represents bits-per-pixel
+8.  As infile,outfile donot exist,meaning the 2nd and 3rd arguments are not entered
+9.  It represents the number of elemens to be read which is one in our case
+10. 3
+11. It advances the position of file pointer by desired amount
+12. SEEK_CUR represents the current position of file pointer
