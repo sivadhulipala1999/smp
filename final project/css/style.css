@@ -1,0 +1,26 @@
+body{
+	font-family : "Lato",sans-serif;
+	color : #747704;
+	font-size : 300;
+}
+hr{
+	height : 2px;
+}
+div > h1{
+	font-size: 50px;
+}
+.title-pic{
+	margin-top : 20px;
+}
+.title-super{
+	font-size : 50px;
+}
+.title-thin{
+	font-weight : 100;
+}
+.text-muted{
+	color : #BCBBBB;
+}
+.text-thin{
+	font-weight : 100;
+}

@@ -1,0 +1,23 @@
+body{
+	font-family : "Lato",sans-serif;
+	color : #747704;
+	font-size : 300;
+}
+hr{
+	border-width : 5px;
+}
+.title-pic{
+	margin-top : 20px;
+}
+.title-super{
+	font-size : 50px;
+}
+.title-thin{
+	font-weight : 100;
+}
+.text-muted{
+	color : #BCBBBB;
+}
+.text-thin{
+	font-weight : 100;
+}

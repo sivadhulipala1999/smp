@@ -1,0 +1,21 @@
+body{
+	font-family : "Lato",sans-serif;
+}
+.title-pic{
+	margin-top : 20px;
+}
+.title-super{
+	font-size : 50px;
+}
+.text-muted{
+	font-weight : 100;
+}
+.text-thin{
+	font-weight : 100;
+}
+.pad{
+	padding-left : 0;
+}
+.bold{
+	font-weight : 5px;
+}
